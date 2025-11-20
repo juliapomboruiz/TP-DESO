@@ -26,6 +26,8 @@ private static final Scanner scanner = new Scanner(System.in);
         mostrarMenuPrincipal();
     }
 
+    //HOLA
+
     // --- CU01: Autenticar Usuario ---
     private static boolean autenticarUsuario() {
         System.out.println("--- BIENVENIDO AL SISTEMA DEL HOTEL PREMIER ---");

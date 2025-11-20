@@ -1,0 +1,141 @@
+[
+  {
+    "nombre": "JOHN",
+    "apellido": "SMITH",
+    "tipoDocumento": "PASAPORTE",
+    "numeroDocumento": "A1B23C456",
+    "posicionIVA": "CONSUMIDOR_FINAL",
+    "edad": 35,
+    "fechaNacimiento": "1990-08-15",
+    "direccion": {
+      "calle": "MAIN STREET",
+      "numero": 123,
+      "piso": 0,
+      "codigoPostal": "90210",
+      "localidad": "BEVERLY HILLS",
+      "provincia": "CALIFORNIA",
+      "pais": "ESTADOS UNIDOS"
+    },
+    "telefono": "+1-202-555-0149",
+    "email": "john.smith@example.com",
+    "nacionalidad": "ESTADOUNIDENSE",
+    "ocupacion": "TURISTA"
+  },
+  {
+    "nombre": "LAURA",
+    "apellido": "MARTINEZ",
+    "tipoDocumento": "DNI",
+    "numeroDocumento": "34987654",
+    "cuit": "27349876545",
+    "edad": 35,
+    "fechaNacimiento": "1990-03-10",
+    "direccion": {
+      "calle": "AV. COLON",
+      "numero": 500,
+      "piso": 2,
+      "departamento": "C",
+      "codigoPostal": "X5000",
+      "localidad": "CORDOBA",
+      "provincia": "CORDOBA",
+      "pais": "ARGENTINA"
+    },
+    "telefono": "3515876543",
+    "nacionalidad": "ARGENTINA",
+    "ocupacion": "ABOGADA"
+  },
+  {
+    "nombre": "CARLOS ALBERTO",
+    "apellido": "RODRIGUEZ",
+    "tipoDocumento": "DNI",
+    "numeroDocumento": "30123456",
+    "cuit": "20301234561",
+    "posicionIVA": "RESPONSABLE_INSCRIPTO",
+    "edad": 42,
+    "fechaNacimiento": "2020-04-05",
+    "direccion": {
+      "calle": "BOULEVARD PELLEGRINI",
+      "numero": 3000,
+      "piso": 5,
+      "departamento": "A",
+      "codigoPostal": "S3000",
+      "localidad": "SANTA FE",
+      "provincia": "SANTA FE",
+      "pais": "ARGENTINA"
+    },
+    "telefono": "3425123456",
+    "email": "carlos.rodriguez@example.com",
+    "nacionalidad": "ARGENTINA",
+    "ocupacion": "INGENIERO"
+  },
+  {
+    "nombre": "BRUNO",
+    "apellido": "GRIFFA",
+    "tipoDocumento": "LE",
+    "numeroDocumento": "3415324",
+    "cuit": "20-45552389-4",
+    "posicionIVA": "EXENTO",
+    "edad": 21,
+    "fechaNacimiento": "2020-05-05",
+    "direccion": {
+      "calle": "AVENIDA RAMIREZ",
+      "numero": 4541,
+      "piso": 0,
+      "departamento": "PARANA",
+      "codigoPostal": "3100",
+      "localidad": "PARANA",
+      "provincia": "ENTRE RIOS",
+      "pais": "ARGENTINA"
+    },
+    "telefono": "3434483616",
+    "email": "brunogriffa1@gmail.com",
+    "nacionalidad": "ARGENTINO",
+    "ocupacion": "ESTUDIANTE"
+  },
+  {
+    "nombre": "JUAN",
+    "apellido": "PEREZ",
+    "tipoDocumento": "DNI",
+    "numeroDocumento": "1234567",
+    "cuit": "22233345",
+    "posicionIVA": "EXENTO",
+    "edad": 32,
+    "fechaNacimiento": "1222-09-23",
+    "direccion": {
+      "calle": "AVENIDA",
+      "numero": 12,
+      "piso": 0,
+      "departamento": "2",
+      "codigoPostal": "1234",
+      "localidad": "PARANA",
+      "provincia": "ENTRE RIOS",
+      "pais": "ARGENTINA"
+    },
+    "telefono": "34321234",
+    "email": "juan@gmail.com",
+    "nacionalidad": "ARGENTINO",
+    "ocupacion": "ESTUDIANTE"
+  },
+  {
+    "nombre": "CAMILA",
+    "apellido": "MUÑOZ",
+    "tipoDocumento": "DNI",
+    "numeroDocumento": "3434343",
+    "cuit": "3232323",
+    "posicionIVA": "EXENTO",
+    "edad": 21,
+    "fechaNacimiento": "2004-08-10",
+    "direccion": {
+      "calle": "LEONIDAS",
+      "numero": 1350,
+      "piso": 0,
+      "departamento": "7",
+      "codigoPostal": "3100",
+      "localidad": "PARANA",
+      "provincia": "ENTRE RIOS",
+      "pais": "ARGENTINA"
+    },
+    "telefono": "3435191220",
+    "nacionalidad": "ARGENTINA",
+    "ocupacion": "ESTUDIANTE"
+  }
+]

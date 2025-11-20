@@ -1,0 +1,33 @@
+[
+  {
+    "id": 101,
+    "check_in": "2024-09-10",
+    "check_out": "2024-09-15",
+    "huespedes": [
+      {
+        "nombre": "CARLOS ALBERTO",
+        "apellido": "RODRIGUEZ",
+        "tipoDocumento": "DNI",
+        "numeroDocumento": "30123456",
+        "cuit": "20301234561",
+        "posicionIVA": "RESPONSABLE_INSCRIPTO",
+        "fechaNacimiento": "1983-05-20",
+        "edad": 42,
+        "telefono": "3425123456",
+        "email": "carlos.rodriguez@example.com",
+        "ocupacion": "INGENIERO",
+        "nacionalidad": "ARGENTINA",
+        "direccion": {
+          "calle": "BOULEVARD PELLEGRINI",
+          "numero": 3000,
+          "piso": 5,
+          "departamento": "A",
+          "codigoPostal": "S3000",
+          "localidad": "SANTA FE",
+          "provincia": "SANTA FE",
+          "pais": "ARGENTINA"
+        }
+      }
+    ]
+  }
+]

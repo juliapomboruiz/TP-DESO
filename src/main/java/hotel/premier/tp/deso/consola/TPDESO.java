@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-//Cambio desde la compu de Bruno 
+//Cambio desde la compu de Bruno aaaabbbcc
 package hotel.premier.tp.deso.consola;
 import hotel.premier.tp.deso.dominio.*;
 import hotel.premier.tp.deso.excepciones.EntidadNoEncontradaException;
